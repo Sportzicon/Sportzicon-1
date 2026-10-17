@@ -1,0 +1,6 @@
+{
+  "name": "Sportzicon — Where Talent Gets Seen",
+  "description": "Sportzicon connects athletes, clubs, academies and scouts in one verified ecosystem with structured profiles, powerful search, and recruitment workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
